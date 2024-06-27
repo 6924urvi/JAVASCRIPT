@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.img {
+    width: 400px;
+    height: 200px;
+    margin: 20px 0px 20px 450px;
+
+}
+
+.time {
+    position: absolute;
+    bottom: 77%;
+    left: 550px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.button {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 450px;
+    gap: 40px;
+ 
+}
+
+.ForBTNS {
+    padding: 10px 40px;
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+
+.ForBTNS:hover {
+    background-color: rgb(231, 147, 147);
+}
+
+.Foricons {
+    font-size: 28px;
+    color: rgb(219, 81, 81);
+}
