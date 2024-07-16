@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+     list-style: none;
+    text-decoration: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    margin-right: 20px;
+    margin-top: 50px;
+    
+}
+
+h2{
+    margin-top: 50px;
+}
+
+img{
+    width: 50%;
+}
+
+.price{
+    font-weight: bold;
+}
+
+button{
+    padding: 5px 10px;
+    color: black;
+    background-color: rgb(230, 173, 218);
+    cursor: pointer;
+    border: 1px solid black;
+    
+    
+}
+
+.delete-item{
+    margin-left: 40px;
+}
+
+
+.products{
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid rgb(252, 244, 244);
+    width: 500px;
+}
+
+
+.sidebar h2{
+    font-weight: bold;
+}
+
+
+.sidebar p{
+    font-weight: bold;
+}
